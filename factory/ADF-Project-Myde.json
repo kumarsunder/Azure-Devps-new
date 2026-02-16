@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Project-Myde",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b4eb052-1c16-49fa-84d1-f9234e35842e",
+		"tenantId": "c0a11067-bd9d-4939-8141-7a1f43a242ec"
+	}
+}
